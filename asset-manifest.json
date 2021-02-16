@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spring-flower/static/css/main.2b333108.chunk.css",
+    "main.js": "/spring-flower/static/js/main.c15a1d56.chunk.js",
+    "main.js.map": "/spring-flower/static/js/main.c15a1d56.chunk.js.map",
+    "runtime-main.js": "/spring-flower/static/js/runtime-main.66664b0a.js",
+    "runtime-main.js.map": "/spring-flower/static/js/runtime-main.66664b0a.js.map",
+    "static/js/2.db51c23e.chunk.js": "/spring-flower/static/js/2.db51c23e.chunk.js",
+    "static/js/2.db51c23e.chunk.js.map": "/spring-flower/static/js/2.db51c23e.chunk.js.map",
+    "index.html": "/spring-flower/index.html",
+    "static/css/main.2b333108.chunk.css.map": "/spring-flower/static/css/main.2b333108.chunk.css.map",
+    "static/js/2.db51c23e.chunk.js.LICENSE.txt": "/spring-flower/static/js/2.db51c23e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66664b0a.js",
+    "static/js/2.db51c23e.chunk.js",
+    "static/css/main.2b333108.chunk.css",
+    "static/js/main.c15a1d56.chunk.js"
+  ]
+}
